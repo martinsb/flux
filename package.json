@@ -1,5 +1,5 @@
 {
-  "name": "@koba04/flux",
+  "name": "flux",
   "version": "3.1.4",
   "publishConfig": {
     "access": "public"
@@ -56,9 +56,9 @@
     "jest": "^15.1.1",
     "object-assign": "^4.0.1",
     "react": "^16.9.0",
-    "react-addons-test-utils": "^15.6.2",
     "react-dom": "^16.9.0",
     "vinyl-source-stream": "^1.0.0",
+    "webpack": "^1.11.0",
     "webpack-stream": "^3.1.0"
   },
   "dependencies": {
